@@ -21,4 +21,6 @@ Task-7:	Study the composition of all patients with respect to the Sex category
 	
 Task-8:	Study if one can detect heart attacks based on anomalies in the resting blood pressure (trestbps) of a patient
 	
-Task-9:	Describe the relationship between cholesterol levels and a target variable
+Task-9:	 Describe the relationship between cholesterol levels and a target variable
+
+Task-10:  Build a baseline model to predict the risk of a heart attack using a logistic regression and random forest and explore the results while using correlation analysis and logistic regression (leveraging standard error and p-values from statsmodels) for feature selection
